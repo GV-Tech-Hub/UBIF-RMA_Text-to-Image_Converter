@@ -1,0 +1,8 @@
+RMA-Image-Converter/
+│
+├── UBIF - RMA Pullback List Maker.py
+├── README.txt
+├── README.html
+├── requirements.txt
+└── exports/
+    └── (Generated images will be saved here)
